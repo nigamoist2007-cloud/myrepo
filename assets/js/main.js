@@ -1,0 +1,1 @@
+(function(){const p=(location.pathname.split('/').pop()||'index.html');document.querySelectorAll('.nav a').forEach(a=>{const q=(a.getAttribute('href')||'').split('/').pop();if(q===p)a.setAttribute('aria-current','page');});})();

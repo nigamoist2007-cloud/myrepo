@@ -1,0 +1,1 @@
+Contact page updated to the requested layout, with an illustrative image from Pexels.
